@@ -1,5 +1,5 @@
 <p align='center'>
-  <img width="600" src='https://github.com/jenningst/nba-trade-analysis/blob/main/images/markus-spiske-BfphcCvhl6E-unsplash.jpg' alt='Basketball'>
+  <img width="600" src='https://github.com/jenningst/nba-draft-strategy-analysis/blob/main/images/tj-dragotta-Gl0jBJJTDWs-unsplash.jpg' alt='Basketball'>
 </p>
 <p align='center'>
   Photo by <a href="https://unsplash.com/@tjdragotta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">TJ Dragotta</a> on <a href="https://unsplash.com/s/photos/basketball?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -22,11 +22,15 @@ From collected summary statistics, we notice zero values in all the categories. 
 We then run an analysis of the clustering model to determine the optimal number of clusters. This analysis triangulates the optimal number of clusters using three methods – elbow method, silhouette method, and gap statistic.
 
 <p align='center'>
-  <img width='600' src='https://github.com/jenningst/nba-trade-analysis/blob/main/images/barplot-cluster-distribution.png'>
+  <img width='600' src='https://github.com/jenningst/nba-draft-strategy-analysis/blob/main/plots/elbow.png'>
 </p>
 
 <p align='center'>
-  <img width='600' src='https://github.com/jenningst/nba-trade-analysis/blob/main/images/boxplot-min-played.png'>
+  <img width='600' src='https://github.com/jenningst/nba-draft-strategy-analysis/blob/main/plots/silhouette.png'>
+</p>
+
+<p align='center'>
+  <img width='600' src='https://github.com/jenningst/nba-draft-strategy-analysis/blob/main/plots/gap.png'>
 </p>
 
 Now that we have clusters and...
